@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoosballScore.Api", "FoosballScore.Api\FoosballScore.Api.csproj", "{46A8EC96-6000-4217-995F-E0E0292F2CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoosballScore.Domain", "FoosballScore.Domain\FoosballScore.Domain.csproj", "{407207D5-02AE-4B48-834F-9A2DECDFED3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A8EC96-6000-4217-995F-E0E0292F2CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A8EC96-6000-4217-995F-E0E0292F2CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A8EC96-6000-4217-995F-E0E0292F2CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A8EC96-6000-4217-995F-E0E0292F2CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{407207D5-02AE-4B48-834F-9A2DECDFED3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407207D5-02AE-4B48-834F-9A2DECDFED3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407207D5-02AE-4B48-834F-9A2DECDFED3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407207D5-02AE-4B48-834F-9A2DECDFED3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
