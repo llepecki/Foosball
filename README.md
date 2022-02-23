@@ -10,7 +10,7 @@ aka "Track your foosball scores the hard way"
 
 The database must exists but the application will create tables, indexes, etc. itself in case they don't exist.
 
-By default the application listens on `http://localhost:5002` (`https` is disabled).
+By default the application listens on `http://localhost:5002` (`https` is disabled), Swagger `http://localhost:5002`.
 
 ## Why no test?
 
